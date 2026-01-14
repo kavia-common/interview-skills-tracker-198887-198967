@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/interview-skills-tracker-198887-198967/interview_prep_tracker_frontend"
+}
